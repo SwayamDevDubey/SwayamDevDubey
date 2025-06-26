@@ -1,4 +1,4 @@
--  I am an ASTROPHYSICIST+COSMOLOGIST+PROGRAMMER..
+-  print("I am an ASTROPHYSICIST+COSMOLOGIST+PROGRAMMER..")
 - 👋 System.Out.print("Hi, I’m @SwayamDevDubey")
 - 👀 // I’ve intend to learn programming ...;//
 - 🌱 certified in Astronomical calcualtions using python recognised by IAPT and coord by IITB ...
