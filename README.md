@@ -4,7 +4,7 @@
 - 🌱 cout<<certified in Astronomical calcualtions using python recognised by IAPT and coord by IITB ...<<endl;
 - 💞️ if( Always_learning==True){
 - sout(upgrading my skillset)};
-- 📫 String[] learnt= {HTML5,MYSQL,JAVA,PYTHON,C++};
+- 📫 String[] learnt= { HTML5 , MYSQL , JAVA , PYTHON , C++ };
 - 😄 String Pronouns: Mr.Dev...
 - ⚡ Fun fact:I LOVE TAKING PICTURES 0F STARS , GALAXY USING USING DATA ANALYSIS IN PYTHON
 -  📫if sky is the limit , then go there...
