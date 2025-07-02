@@ -1,7 +1,7 @@
 -  print("I am an ASTROPHYSICIST+COSMOLOGIST+PROGRAMMER..")
 - 👋 System.Out.print("Hi, I’m @SwayamDevDubey")
 - 👀 // I’ve intend to learn programming ...;//
-- 🌱 certified in Astronomical calcualtions using python recognised by IAPT and coord by IITB ...
+- 🌱 cout<<certified in Astronomical calcualtions using python recognised by IAPT and coord by IITB ...<<endl;
 - 💞️ if( Always_learning==True){
 - sout(upgrading my skillset)};
 - 📫 String[] learnt= {HTML5,MYSQL,JAVA,PYTHON,C++};
